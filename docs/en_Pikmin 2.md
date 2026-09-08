@@ -20,16 +20,16 @@ Any of the items which can be shuffled may also be placed into another player's 
 
 Items from another world look different depending on their classification and certain settings. All are marbles with the AP logo inside them, made by fracta1fa1th and lightly modified by me.
 
-Progression item:
+Progression item:  
 ![AP marble](https://github.com/chpas0/Pikmin2Archipelago/blob/main/docs/progression.png "The progression Off-World Item in game.")
 
-Useful item:
+Useful item:  
 ![AP marble](https://github.com/chpas0/Pikmin2Archipelago/blob/main/docs/useful.png "The useful Off-World Item in game.")
 
-Filler item:
+Filler item:  
 ![AP marble](https://github.com/chpas0/Pikmin2Archipelago/blob/main/docs/filler.png "The filler Off-World Item in game.")
 
-Mystery item (used if the Show Item Types setting is off):
+Mystery item (used if the Show Item Types setting is off):  
 ![AP marble](https://github.com/chpas0/Pikmin2Archipelago/blob/main/docs/mystery.png "The mystery Off-World Item in game.")
 
 ## When the player receives an item, what happens?
