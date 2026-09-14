@@ -37,6 +37,9 @@ The client and an instance of Dolphin should launch. You can then connect to the
 ## Hosting a Multiworld Game
 You can upload the generated ```.zip``` file [here](https://archipelago.gg/uploads) to launch a server.
 
+## Relaunching the Game
+If you would like to relaunch your game for any reason, simply follow steps 5 and 6 of [Generating a Multiworld Game](#generating-a-multiworld-game) again. The launcher will recognize that the patched ISO already exists, will skip patching, and will launch your game. Do not launch the Pikmin2Client widget, as it will not do anything. Also, do not soft reset the game, as this will cause a softlock.
+
 ## Playing the Game / FAQ
 There are a few important quirks that must be observed when playing.
 - Items can only be received if the player is in a cave or on the overworld. Items cannot be received on the world map, end of day screens or in cutscenes, but CAN be received in the pause menu.
@@ -51,6 +54,8 @@ There are a few important quirks that must be observed when playing.
 - Cave keys open the cave's vanilla location, i.e., if you collect the Emergence Cave Entrance Key, it will open the first cave in Valley of Repose. 
 - The water around Submerged Castle has been removed so that the cave can be shuffled. You can get all types to the location by throwing them onto a ledge and whistling them down from the other side. If Submerged Castle is shuffled to a different location, its blues-only requirement will be shuffled with it.
 - If non-progressive globes are on, Awakening Wood and Perplexing Pool will open as soon as you visit the world map for the first time; however, you won't be able to land in them until you get the respective globe. When you repay the debt, Wistful Wild will open, but you won't be able to land there until you get both globes.
+- If the "Show Item Types" setting is on, items with the trap classification will use either the progression or useful item model.
+- Do not soft reset the game, it will cause a crash (see [Relaunching the Game](#relaunching-the-game)).
 
 ## Location Abbreviations
 
