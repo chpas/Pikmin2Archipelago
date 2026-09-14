@@ -3,7 +3,7 @@
 ## Required Software
 - Dolphin Emulator: https://dolphin-emu.org/download/
 - Archipelago: https://github.com/ArchipelagoMW/Archipelago/releases
-- Pikmin 2 APWorld: https://github.com/chpas0/Pikmin2Archipelago/releases
+- Pikmin 2 APWorld: https://github.com/chpas/Pikmin2Archipelago/releases
 - A Pikmin 2 GameCube USA .iso file
 ## Installing the APWorld
 Put the pikmin2.apworld file in the ```custom_worlds``` folder of your Archipelago installation. You can also just double-click the file to automatically install it.
@@ -55,7 +55,7 @@ There are a few important quirks that must be observed when playing.
 - The water around Submerged Castle has been removed so that the cave can be shuffled. You can get all types to the location by throwing them onto a ledge and whistling them down from the other side. If Submerged Castle is shuffled to a different location, its blues-only requirement will be shuffled with it.
 - If non-progressive globes are on, Awakening Wood and Perplexing Pool will open as soon as you visit the world map for the first time; however, you won't be able to land in them until you get the respective globe. When you repay the debt, Wistful Wild will open, but you won't be able to land there until you get both globes.
 - If the "Show Item Types" setting is on, items with the trap classification will use either the progression or useful item model.
-- Do not soft reset the game, it will cause a crash (see [Relaunching the Game](#relaunching-the-game)).
+- Do not soft reset the game, as it will cause a crash (see [Relaunching the Game](#relaunching-the-game)).
 
 ## Location Abbreviations
 
