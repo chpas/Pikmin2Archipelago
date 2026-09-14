@@ -23,11 +23,16 @@ Place all of the players' ```.yaml``` files into the ```Players``` folder of you
 ### Step 2
 Open the Archipelago Launcher and click the ```Generate``` button. If the generation succeeds, this should create a ```.zip``` archive in the ```output``` directory of your Archipelago installation.
 ### Step 3
-Unzip the archive that was just generated. There should be an ```.appik2``` file inside called ```AP_<seed>_P<slot>_<name>.appik2```. This file will be referred to as the Pikmin 2 setup file for the rest of the guide.
+Obtain your ```.appik2``` file. There are two ways to do this:
+#### From your generation
+Unzip the ```.zip``` archive that was generated. There should be an ```.appik2``` file inside called ```AP_<seed>_P<slot>_<name>.appik2```.
+#### From the server
+If you are hosting on the website, there will be a link to download the game's patch file on the room's main page (see below image). The downloaded file will be called ```P<slot>_<name>_<roomID>.appik2```.  
+![Server image](https://github.com/chpas0/Pikmin2Archipelago/blob/main/docs/server.png "An example of the Archipelago website's room lobby.")
 ### Step 4
 Turn the Memory Override setting on Dolphin settings (Config -> Advanced -> Memory Override). Check the box that says "Enable Emulated Memory Size Override" and move the first slider (**marked MEM1**) to 64 MB.
 ### Step 5
-Re-open the Archipelago Launcher, and click the ```Open Patch``` button. You will be prompted for the Pikmin 2 setup file. If this is your first time running the client, you will also be asked for your Dolphin executable/binary file and path to your clean Pikmin 2 USA .iso; these paths will be saved to your ```host.yaml``` so you don't need to select them each time.
+Re-open the Archipelago Launcher, and click the ```Open Patch``` button. You will be prompted for the ```.appik2``` file from step 3. If this is your first time running the client, you will also be asked for your Dolphin executable/binary file and path to your clean Pikmin 2 USA .iso; these paths will be saved to your ```host.yaml``` so you don't need to select them each time.
 ### Step 6
 The client and an instance of Dolphin should launch. You can then connect to the Archipelago server!
 
