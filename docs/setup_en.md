@@ -28,6 +28,7 @@ Obtain your ```.appik2``` file. There are two ways to do this:
 Unzip the ```.zip``` archive that was generated. There should be an ```.appik2``` file inside called ```AP_<seed>_P<slot>_<name>.appik2```.
 #### From the server
 If you are hosting on the website, there will be a link to download the game's patch file on the room's main page (see below image). The downloaded file will be called ```P<slot>_<name>_<roomID>.appik2```.  
+
 ![Server image](https://github.com/chpas0/Pikmin2Archipelago/blob/main/docs/server.png "An example of the Archipelago website's room lobby.")
 ### Step 4
 Turn the Memory Override setting on Dolphin settings (Config -> Advanced -> Memory Override). Check the box that says "Enable Emulated Memory Size Override" and move the first slider (**marked MEM1**) to 64 MB.
