@@ -39,6 +39,7 @@ The client and an instance of Dolphin should launch. You can then connect to the
 
 ## IMPORTANT NOTE: Make sure all other instances of Dolphin are closed before you launch the client.
 ## IMPORTANT NOTE 2: If either the client or the Dolphin instance are closed, you must close the other one. Only launch Dolphin through launching the client, otherwise the items will not appear in game. Items obtained while the client is closed may be lost!
+## IMPORTANT NOTE 3: Make sure you are connected to the server, or else your items will not be logged (and you won't receive filler items and items from certain locations).
 
 ## Hosting a Multiworld Game
 You can upload the generated ```.zip``` file [here](https://archipelago.gg/uploads) to launch a server.
