@@ -1,0 +1,12 @@
+dolphin_memory_engine/dolphin-memory-engine.lib,sha256=TXWFIUyPKVlRoRvxBXFaD_bjACvIXihd0LZT4gpieYM,820712
+dolphin_memory_engine/version.py,sha256=wG7U4JZ1rM4WMm8Bd1x_4sEIxZmulwwVikmXIPpIL9c,759
+dolphin_memory_engine/_dolphin_memory_engine.pyd,sha256=ZvaKyPZbMmcZskKd9ywAMUniGZGBvSs_Nx6_Dwn1A0k,123392
+dolphin_memory_engine/__init__.py,sha256=pUbInB07NiYibtA8Me5YHS-DJF_JicMPbXP_62qmsAU,2293
+dolphin_memory_engine-1.3.2.dev37.dist-info/DELVEWHEEL,sha256=hGlqZzS20dHENdXrLrnMnbri1va3A8VnytaSpOswy6Y,421
+dolphin_memory_engine-1.3.2.dev37.dist-info/METADATA,sha256=UYrLCb3V3NXgfH7Ags_pksvlWLzn-i6Nm5XZdArDU3s,2498
+dolphin_memory_engine-1.3.2.dev37.dist-info/RECORD,,
+dolphin_memory_engine-1.3.2.dev37.dist-info/top_level.txt,sha256=g2oZO23YxiSqjDkjeP4iZCmBg54e8QfafYxSytnNYXI,22
+dolphin_memory_engine-1.3.2.dev37.dist-info/WHEEL,sha256=i4Ct5g1MFZwV98eHmNmGsfrPgf1eOZ2l4yC1L9Cta5Q,99
+dolphin_memory_engine-1.3.2.dev37.dist-info/licenses/LICENSE,sha256=W7Fd0U-gOv4dgxK3KysZoS2bSgjMKw6M91xPkejDxGU,1087
+dolphin_memory_engine.libs/.load-order-dolphin_memory_engine-1.3.2.dev37,sha256=rGeBVS44JFOQfD3-7hS9ba6t4li6_9a3jX2WznDgOhU,46
+dolphin_memory_engine.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll,sha256=pMIim9wqKmMKzcCVtNhgCOXD47x3cxdDVPPaT1vrnN4,575056

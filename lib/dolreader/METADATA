@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: dolreader
+Version: 1.1.1
+Summary: Simple python library for working with Nintendo's DOL format
+Home-page: https://github.com/JoshuaMKW/dolreader
+Author: JoshuaMK
+Author-email: joshuamkw2002@gmail.com
+License: GNU General Public License v3.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# dolreader
+A python library for reading data from and writing data to Dol files (GC/Wii executables).
+
+# Features
+- Complete file support
+- Sections and saved DOLs are properly aligned
+- Easy branch insertion
+- Sections are abstracted from the file, making access easy and efficient
+
+
